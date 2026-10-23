@@ -8,7 +8,7 @@ I like building useful tools, understanding how systems work and improving my sk
 
 ## 🚀 Current Project
 
-### [LaneLens](https://github.com/Braoux/LaneLens)
+### [LaneLens](https://lanelens.onrender.com/)
 
 LaneLens is a small League of Legends botlane matchup analyzer.
 
